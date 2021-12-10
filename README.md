@@ -4,7 +4,7 @@
 
 <!--
 How to make this gif ?
-I made my content with this url https://codesandbox.io/s/github-profile-2ijk7
+I made my content with test changes this url https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen on windows OS using the xbox recorder (command is win + alt + R) i got the .mp4 file
 Then i converted the .msp to .gif here https://convertio.co/
 Then i cropped the .gif as per my need here https://ezgif.com/resize
